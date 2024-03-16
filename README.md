@@ -1,8 +1,20 @@
-# React + Vite
+# TAILWINDCSS & DAISYUI STARTER TEMPLATE
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple starter template for React-Vite configured with TailwindCSS and DaisyUI.
 
-Currently, two official plugins are available:
+## Included
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- TailwindCSS
+- DaisyUI
+- React-Vite
+- Dark Mode (Toggle)
+
+## Usage
+
+1. Create a new repository using this template by clicking the "Use this template" button.
+2. Clone the repository and run `npm install` to install the dependencies.
+3. Run `npm run dev` to start the development server.
+
+## License
+
+This project is licensed under the MIT License. If you like it, please consider giving it a star. 🌟
